@@ -1,5 +1,5 @@
-{{ cookiecutter.package_name }}
-{{ '=' * cookiecutter.package_name|length }}
+{{ cookiecutter.module_name }}
+{{ '=' * cookiecutter.module_name|length }}
 
 The {{ cookiecutter.module_name }} module of the Tryton application platform.
 
