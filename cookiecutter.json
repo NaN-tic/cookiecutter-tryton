@@ -7,7 +7,7 @@
     "author": "NaN-tic",
     "author_email": "info@nan-tic.com",
     "fullname": "NaN-tic",
-    "year": 2019,
+    "year": 2021,
     "url": "https://github.com/NaN-tic/trytond-{{ cookiecutter.module_name }}",
     "keywords": "",
     "test_with_scenario": "",
