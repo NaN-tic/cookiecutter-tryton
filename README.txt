@@ -16,7 +16,7 @@ Quickstart
 
 Generate a Tryton module project::
 
-    cookiecutter https://bitbucket.org/nantic/cookiecutter-tryton
+    cookiecutter https://github.com/NaN-tic/cookiecutter-tryton
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _Drone: https://github.com/drone/drone
