@@ -10,6 +10,5 @@
     "year": 2024,
     "url": "https://github.com/NaN-tic/trytond-{{ cookiecutter.module_name }}",
     "keywords": "",
-    "test_with_scenario": "",
     "download": "nantic"
 }
