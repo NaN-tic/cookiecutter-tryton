@@ -2,7 +2,7 @@
     "module_name": "my_module",
     "prefix": "nantic",
     "package_name": "{% if not cookiecutter.prefix %}trytond_{{ cookiecutter.module_name }}{% else %}{{ cookiecutter.prefix }}_{{ cookiecutter.module_name }}{% endif %}",
-    "version": "6.8.0",
+    "version": "7.2.0",
     "description": "",
     "author": "NaN-tic",
     "author_email": "info@nan-tic.com",
